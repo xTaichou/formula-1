@@ -11,5 +11,5 @@ Please note that this project is in progress and still requires a lot work until
 Some general notes:
 Data was aquired from Kaggle, but the data is constantly being updated so it might not match what I have in my repository. Link for the dataset is below.
   https://www.kaggle.com/datasets/debashish311601/formula-1-official-data-19502022
-All excel anaylsis was done by me.
+All excel anaylsis was done by me. These files exist in the Analysis folder.
 All code was done from scratch and I make use of PyCharm as my IDE of choice.
